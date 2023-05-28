@@ -56,3 +56,6 @@ bash:~/IPL_Predictor $: source env/bin/activate
 **App Preview When app has started on your browser**
 
 <img src="assets\preveiw.png">
+
+## Deployed on
+> https://amanraj-bose-ipl-predictor-app-z6er7d.streamlit.app/
