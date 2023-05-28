@@ -1,0 +1,25 @@
+{
+	"Model": {
+		"name": "Toss Winner",
+		"filename": "tosswinner.h5"
+	},
+
+	"Dictionary": {
+		"Teams Name": "Team.pkl",
+		"Stadium/Venue Name": "Venue.pkl",
+		"Converse Team Name": "Winner.pkl",
+		"City Name": "City.pkl"
+	},
+
+	"Machinery": {
+		"Labeler": {
+			"Name": "Labeler",
+			"filename": "labeler.pkl",
+			"format": "pickle",
+			"Object": "LabelEncoder()",
+			"From": "scikit-learn"
+		}
+	},
+
+	"Arguments": ["Team 1", "Team 2", "City", "Venue"]
+}
