@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="assets\logo-removebg-preview.png">
+    <img src="https://github.com/amanraj-bose/IPL_Predictor/blob/main/assets/logo-removebg-preview.png">
 </h1>
 <p align="center">
     <a href="https://twitter.com/amanraj_Phunish">
