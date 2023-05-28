@@ -36,7 +36,7 @@ bash:~/IPL_Predictor $: virutalenv env
 **Activating the Virtual Environment and Installing All Neccesary python Libraries**
 ```bash
 bash:~/IPL_Predictor $: source env/bin/activate
-(env) bash~/IPL_Predictor $: python3 -m pip install -r requirements.txt
+(env) bash:~/IPL_Predictor $: python3 -m pip install -r requirements.txt
 ```
 
 ---
