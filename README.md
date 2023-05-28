@@ -45,7 +45,7 @@ bash:~/IPL_Predictor $: source env/bin/activate
 
 **Staring the App**
 ```bash
-(env) bash~/IPL_Predictor $: streamlit run app.py
+(env) bash:~/IPL_Predictor $: streamlit run app.py
 ```
 
 <!-- <img src=""> -->
